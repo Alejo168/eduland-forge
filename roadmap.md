@@ -6,4 +6,4 @@
 - [x] Catálogo técnico filtrable
 - [x] Servicios y postventa
 - [x] Contacto con validación y WhatsApp
-- [ ] Verificación visual y funcional
+- [x] Verificación visual y funcional
