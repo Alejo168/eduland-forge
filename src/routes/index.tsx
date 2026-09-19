@@ -20,7 +20,7 @@ const categories = [
   { icon: FlaskConical, n: "02", title: "Laboratorios de ciencias", text: "Soluciones para física, química, biología y ensayos de materiales.", category: "ciencias" },
   { icon: Gauge, n: "03", title: "Instrumentación y medición", text: "Equipos de prueba, generación y medición de precisión.", category: "instrumentacion" },
   { icon: SlidersHorizontal, n: "04", title: "Software técnico", text: "Simulación, diseño de ingeniería y licenciamiento académico.", category: "software" },
-];
+] as const;
 
 function HomePage() {
   return <>
